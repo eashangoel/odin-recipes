@@ -1,0 +1,52 @@
+html{
+    background-color: black;
+}
+
+body{
+    color: white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h3{
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: bisque;
+}
+body p {
+    color: green;
+}
+ul li {
+    color: brown;
+}
+ol li {
+    color: skyblue;
+    text-align: center;
+}
+.heading{
+    font-weight: 800;
+    text-align: center;
+    font-size: 80px;
+    color: magenta;
+    background-color: black;
+}
+
+.heading.home{
+    color: orchid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    font-size: 120px;
+    background-color: white;
+}
+
+.list.home{
+    text-align: left;
+    color: rgb(211, 226, 43);
+    font-size: medium;
+}
